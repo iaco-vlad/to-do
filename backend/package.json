@@ -1,0 +1,21 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "To Do backend",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "local-storage": "^2.0.0",
+    "node-localstorage": "^2.2.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "license": "ISC"
+}
