@@ -4,7 +4,7 @@ A simple To Do app built with Vue.js, Vuex, Node.js, and Bootstrap.
 
 ## Prerequisites
 
-- Node.js (v12.x or later)
+- Node.js (v12.x to v16.x)
 
 ## Backend Setup
 
